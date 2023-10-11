@@ -1,4 +1,4 @@
-# Dự án hệ thống nhận diện, truy xuất băng QR-Code cho nhân viên
+# Dự án hệ thống nhận diện, truy xuất QR-Code cho nhân viên
 
 ## X_QR_System-ORP
 X_QR_System-ORP là một hệ thống nhận diện và truy xuất các thông tin thời gian, và khởi động hệ thống cho nhân viên chỉ bằng mã QR-Code và có thể kết nối đến nhiều nền tảng lưu trữ
